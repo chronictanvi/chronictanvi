@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chronictanvi
 - 👀 I’m interested in gardening, storytelling, aesthetics 
-- 🌱 I’m currently learning react 
+- 🌱 I’m currently designing and developing Data x Design 
 - 📫 reach me at (chronictanvi@gmail.com)
 
 <!---
